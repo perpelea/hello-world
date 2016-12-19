@@ -1,2 +1,2 @@
 # hello-world
-lab12
+Aici se invata
